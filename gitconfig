@@ -1,9 +1,7 @@
 [user]
         name = Dave Faciane
-        email = dave.faciane@weather.com
+        email = dfaciane@us.ibm.com
 
-[branch "release-1.6.0"]
-        remote = origin
 [alias]
         lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
         logadog = log --all --decorate --oneline --graph
